@@ -1,1 +1,33 @@
-# clarice
+<h1>Meu blog tech</h1>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+<head></head>
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+<style>header {
+    background-color: #183C63;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+main {
+    background-color: #FFFFFF;
+    color: #183C63;
+}
+</style>
+</head>
+<body>
+<header></header>
+    <h1>Meu blog tech</h1>
+    <p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+<header></header>
+  <main></main>
+</body>
+</html>
+<p>Por: Clarice Dalila</p>
+<h2>Meu primeiro post</h2>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
+<main></main>
